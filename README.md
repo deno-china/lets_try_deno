@@ -1,7 +1,7 @@
 # lets_try_deno 来一发Deno如何
 For beginners who want to try Deno（写给想尝试Deno的新人）
 
-* [ ] 简介
+* [简介](简介.md)
 * [ ] 安装指南
 * [ ] 写一个Hello World
 * [ ] Deno的依赖系统
