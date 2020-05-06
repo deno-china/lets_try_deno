@@ -2,7 +2,7 @@
 For beginners who want to try Deno（写给想尝试Deno的新人）
 
 * [简介](简介.md)
-* [ ] 安装指南
+* [安装/升级](chapters/install.md)
 * [ ] 写一个Hello World
 * [ ] Deno的依赖系统
   * [ ] 写一个猜数字游戏
