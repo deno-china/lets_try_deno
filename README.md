@@ -3,8 +3,8 @@ For beginners who want to try Deno（写给想尝试Deno的新人）
 
 * [简介](简介.md)
 * [安装/升级](chapters/install.md)
-* [写一个Hello World](chapers/../chapters/hello_world.md)
-* [ ] Deno的依赖系统
+* [写一个Hello World](chapters/hello_world.md)
+* [Deno的依赖系统](chapters/module_system.md)
   * [ ] 分布式依赖如何保证上游稳定？
   * [ ] 使用 import-map 修复上游依赖
   * [ ] 模块惯用命名
