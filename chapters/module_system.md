@@ -18,7 +18,7 @@ for await (const req of s) {
 看起来似乎是将我们带到了 “远古时代”，其实只是回归到了浏览器本身，Deno 是完全兼容现在浏览器的标准模块系统 `ESM`，
 
 ```html
-<script type="module" src="https://deno.land/std/examples/welcome.ts"></script>
+<script type="module" src="https://domain/somewhere/module.js"></script>
 ```
 
 **不必再忍受庞大的 node_modules 了**
